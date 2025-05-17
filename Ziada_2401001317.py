@@ -9,7 +9,7 @@ Original file is located at
 
 name = ["Kagetera","John","Peter","Alex","Claude"]
 name.append ("Ziada")
-name.append ("UoK")
+name.append ("University")
 name.append ("Nirere")
 name.sort
 print (name)
